@@ -1,0 +1,378 @@
+2024-12-27 18:31:16,119 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 18:31:16,120 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 18:31:49,558 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 18:31:49,559 - EmcuDebuggingTool - DEBUG - Sent: 56450005010100020ce4
+2024-12-27 18:31:49,560 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 18:31:58,749 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 18:31:58,750 - EmcuDebuggingTool - DEBUG - Sent: 56450005010100020ce4
+2024-12-27 18:31:58,751 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:08:20,813 - EmcuDebuggingTool - ERROR - Attempted to receive response without a connection.
+2024-12-27 20:08:31,383 - EmcuDebuggingTool - ERROR - Attempted to receive response without a connection.
+2024-12-27 20:08:36,150 - EmcuDebuggingTool - ERROR - Attempted to receive response without a connection.
+2024-12-27 20:09:13,009 - EmcuDebuggingTool - ERROR - Attempted to receive response without a connection.
+2024-12-27 20:09:41,851 - EmcuDebuggingTool - ERROR - Attempted to receive response without a connection.
+2024-12-27 20:10:15,422 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:10:15,424 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:10:53,998 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:10:54,000 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:11:44,888 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:11:50,840 - EmcuDebuggingTool - DEBUG - Sent: 56050100000ce4
+2024-12-27 20:11:50,842 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:12:00,363 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:12:34,972 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:12:36,626 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:15:43,560 - EmcuDebuggingTool - DEBUG - Sent: 56050100000ce4
+2024-12-27 20:15:43,563 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:15:45,303 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:15:50,564 - EmcuDebuggingTool - DEBUG - Sent: 56050100000ce4
+2024-12-27 20:15:50,566 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:16:23,016 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:16:32,567 - EmcuDebuggingTool - DEBUG - Sent: 56050100000ce4
+2024-12-27 20:16:32,569 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:21:19,069 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:21:22,078 - EmcuDebuggingTool - DEBUG - Sent: 5600050100000ce4
+2024-12-27 20:21:22,079 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:22:57,421 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:23:06,901 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:23:10,702 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:23:13,210 - EmcuDebuggingTool - DEBUG - Sent: 0005560100000ce4
+2024-12-27 20:23:13,212 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:23:17,061 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:23:17,061 - EmcuDebuggingTool - DEBUG - Sent: 0005560100000ce4
+2024-12-27 20:23:17,062 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:23:27,778 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:23:27,779 - EmcuDebuggingTool - DEBUG - Sent: 0005560100000ce4
+2024-12-27 20:23:27,780 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:24:21,299 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:24:21,299 - EmcuDebuggingTool - DEBUG - Sent: 0005560100000ce4
+2024-12-27 20:24:21,300 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:25:19,257 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:25:19,257 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-27 20:25:19,258 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-27 20:25:43,824 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-27 20:25:43,824 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-27 20:25:43,825 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-28 15:43:19,093 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-28 15:43:19,093 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-28 15:43:25,355 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-28 15:44:46,970 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-28 15:44:46,972 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-28 15:44:53,517 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-28 15:49:00,450 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-28 15:49:00,451 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-28 15:49:05,749 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 13:31:28,481 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 13:31:28,482 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-29 13:31:32,183 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 13:34:31,098 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 13:34:31,098 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-29 13:34:31,100 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 13:35:39,742 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 13:35:39,742 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-29 13:35:41,984 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 13:52:44,420 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 13:52:44,421 - EmcuDebuggingTool - DEBUG - Sent: 0005010100000ce4
+2024-12-29 13:52:48,270 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 13:56:40,126 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 13:56:40,127 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 13:56:40,128 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 13:57:57,820 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 13:57:57,821 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 13:58:00,483 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 13:59:08,306 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 13:59:08,307 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 13:59:08,308 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:01:50,802 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:01:50,803 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:01:50,803 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:02:52,682 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:02:52,683 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:02:54,810 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:05:37,183 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:05:37,184 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:05:37,185 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:06:31,607 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:06:31,607 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:06:31,608 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:10:53,911 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:10:53,911 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:10:53,912 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:11:43,375 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:11:43,375 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:11:43,376 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:12:37,373 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:12:37,373 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:12:37,374 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:15:03,873 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:15:03,873 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:15:03,874 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:21:59,817 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:21:59,818 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:21:59,819 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:22:25,536 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:22:25,537 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:22:25,538 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:23:01,941 - EmcuDebuggingTool - ERROR - Failed to connect: Could not configure port: (6, 'Device not configured')
+2024-12-29 14:23:01,943 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2024-12-29 14:23:06,973 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:23:06,974 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:23:08,808 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:25:30,751 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:25:30,752 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:25:30,753 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:25:42,723 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:25:42,724 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:25:42,726 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:27:10,469 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:27:10,469 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:27:10,471 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:27:31,791 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:27:31,791 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:27:31,792 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:28:31,165 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:28:31,165 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:28:31,166 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:28:44,926 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:28:44,927 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:28:44,928 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:40:21,821 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:40:21,822 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:40:21,823 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 14:55:35,626 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 14:55:35,626 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 14:55:35,627 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 15:27:12,387 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 15:27:12,388 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 15:27:12,389 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 15:36:16,085 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 15:36:16,086 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 15:36:19,559 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-29 15:55:42,462 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-29 15:55:42,463 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-29 15:55:42,464 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:28:15,651 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:28:15,652 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:28:15,653 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:28:45,383 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:28:45,384 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:28:45,385 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:29:55,755 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 2] could not open port /dev/tty.usbmodem3447336B30331: [Errno 2] No such file or directory: '/dev/tty.usbmodem3447336B30331'
+2024-12-30 10:29:55,756 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2024-12-30 10:30:02,564 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:30:02,564 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:30:06,355 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:30:45,757 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:30:45,757 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:30:45,759 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:39:59,830 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:39:59,831 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:40:04,700 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:40:21,403 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:40:21,403 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:40:24,164 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:50:54,033 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:50:54,033 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:50:58,331 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:55:13,681 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:55:13,682 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:55:13,683 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 10:55:34,325 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 10:55:34,326 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 10:55:34,327 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:28:47,204 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:28:47,205 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:28:47,206 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:31:27,969 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:31:27,969 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:31:27,971 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:37:51,730 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 2] could not open port /dev/tty.usbmodem3447336B30331: [Errno 2] No such file or directory: '/dev/tty.usbmodem3447336B30331'
+2024-12-30 11:37:51,730 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2024-12-30 11:38:07,076 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:38:07,076 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:38:07,077 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:39:31,593 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:39:31,594 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:39:31,595 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:41:57,783 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:41:57,784 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:41:57,785 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:51:42,327 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:51:42,328 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:51:42,329 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:52:30,416 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:52:30,416 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:52:30,418 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:53:46,725 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:53:46,725 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000ce4
+2024-12-30 11:53:46,727 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:55:58,120 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:55:58,121 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 11:55:58,122 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 11:57:33,748 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 11:57:33,749 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 11:57:33,750 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:04:19,888 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:04:19,889 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:04:19,889 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:05:01,322 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:05:01,331 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:05:01,336 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:05:12,545 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:05:12,546 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:05:12,547 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:07:18,344 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:07:18,344 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:07:18,345 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:09:39,901 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:09:39,902 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:09:39,904 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:10:40,511 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:10:40,512 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:10:40,512 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:13:29,974 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 2] could not open port /dev/tty.usbmodem3447336B30331: [Errno 2] No such file or directory: '/dev/tty.usbmodem3447336B30331'
+2024-12-30 12:13:29,975 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2024-12-30 12:13:42,337 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:13:42,338 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:13:48,892 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 12:14:31,138 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 12:14:31,139 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 12:14:31,141 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 13:02:40,315 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 2] could not open port /dev/tty.usbmodem3447336B30331: [Errno 2] No such file or directory: '/dev/tty.usbmodem3447336B30331'
+2024-12-30 13:02:40,316 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2024-12-30 13:41:00,293 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 2] could not open port /dev/tty.usbmodem3447336B30331: [Errno 2] No such file or directory: '/dev/tty.usbmodem3447336B30331'
+2024-12-30 13:41:00,293 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2024-12-30 14:28:36,808 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:28:36,809 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 14:28:36,810 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:30:29,056 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:30:29,057 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 14:30:29,058 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:31:31,055 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:31:31,055 - EmcuDebuggingTool - DEBUG - Sent: 00050102000005dc
+2024-12-30 14:31:31,056 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:33:09,233 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:33:09,234 - EmcuDebuggingTool - DEBUG - Sent: 00050102000009c4
+2024-12-30 14:33:09,235 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:34:31,994 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:34:31,996 - EmcuDebuggingTool - DEBUG - Sent: 00050102000009c4
+2024-12-30 14:34:32,000 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:34:40,649 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:34:40,650 - EmcuDebuggingTool - DEBUG - Sent: 00050102000009c4
+2024-12-30 14:34:40,651 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:38:47,796 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:38:47,797 - EmcuDebuggingTool - DEBUG - Sent: 00050102000001f4
+2024-12-30 14:38:47,798 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:40:02,252 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:40:02,252 - EmcuDebuggingTool - DEBUG - Sent: 00050102000001f4
+2024-12-30 14:40:04,679 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:40:37,327 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:40:37,328 - EmcuDebuggingTool - DEBUG - Sent: 00050102000001f4
+2024-12-30 14:40:40,902 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:47:10,491 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:47:10,492 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000bb8
+2024-12-30 14:47:15,281 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 14:51:34,006 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 14:51:34,007 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000bb8
+2024-12-30 14:51:40,536 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:03:26,132 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:03:26,133 - EmcuDebuggingTool - DEBUG - Sent: 00050102000007d0
+2024-12-30 15:03:26,134 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:21:11,059 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:21:11,060 - EmcuDebuggingTool - DEBUG - Sent: 00050102000007d0
+2024-12-30 15:21:11,062 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:26:25,144 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:26:25,145 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:26:25,146 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:28:13,398 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:28:13,398 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:28:13,400 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:29:19,517 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:29:19,517 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:29:19,518 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:30:03,672 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:30:03,672 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:30:03,673 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:31:09,085 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:31:09,086 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:31:14,466 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:32:58,113 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:32:58,114 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:33:04,335 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:36:08,885 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:36:08,885 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:36:08,886 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:38:09,323 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:38:09,324 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:38:12,704 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 15:55:56,985 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 15:55:56,986 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 15:55:56,987 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 16:03:22,200 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 16:03:22,201 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 16:03:22,202 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 16:16:10,287 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 16:16:10,288 - EmcuDebuggingTool - DEBUG - Sent: 00050102000003e8
+2024-12-30 16:16:10,289 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 16:16:29,846 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 16:16:29,846 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2024-12-30 16:16:32,595 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2024-12-30 16:17:20,874 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2024-12-30 16:17:20,874 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2024-12-30 16:17:20,875 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 15:51:41,135 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 15:51:41,136 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2025-01-02 15:51:41,137 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 15:52:23,633 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 15:52:23,634 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2025-01-02 15:52:26,602 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 15:53:23,206 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 15:53:23,207 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2025-01-02 15:53:26,675 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 15:56:31,650 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 15:56:31,650 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2025-01-02 15:56:31,651 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 15:59:27,211 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 15:59:27,214 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2025-01-02 15:59:30,036 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 16:03:41,787 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 16:03:41,788 - EmcuDebuggingTool - DEBUG - Sent: 0005010200000898
+2025-01-02 16:03:44,737 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 16:06:59,338 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 16:10:03,236 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 16:10:05,132 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 16:10:46,331 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-02 16:12:02,630 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-02 16:13:38,682 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-05 17:35:46,799 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-05 17:36:43,170 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-07 17:42:07,233 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 16] could not open port /dev/tty.usbmodem3447336B30331: [Errno 16] Resource busy: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:42:12,198 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 16] could not open port /dev/tty.usbmodem3447336B30331: [Errno 16] Resource busy: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:42:20,912 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 16] could not open port /dev/tty.usbmodem3447336B30331: [Errno 16] Resource busy: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:42:31,096 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 16] could not open port /dev/tty.usbmodem3447336B30331: [Errno 16] Resource busy: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:42:42,531 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 16] could not open port /dev/tty.usbmodem3447336B30331: [Errno 16] Resource busy: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:42:57,082 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 16] could not open port /dev/tty.usbmodem3447336B30331: [Errno 16] Resource busy: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:45:26,430 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 16] could not open port /dev/tty.usbmodem3447336B30331: [Errno 16] Resource busy: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:45:38,791 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2025-01-07 17:45:53,658 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-07 17:45:54,705 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-07 17:45:55,059 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-07 17:46:00,935 - EmcuDebuggingTool - DEBUG - Sent: 000303010c01
+2025-01-07 17:46:07,237 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-07 17:47:39,561 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-07 17:47:44,351 - EmcuDebuggingTool - DEBUG - Sent: 000303010c01
+2025-01-07 17:47:48,588 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-07 17:54:01,495 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-07 17:54:05,997 - EmcuDebuggingTool - DEBUG - Sent: 000303010c01
+2025-01-07 17:54:08,826 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-07 17:54:50,307 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 2] could not open port /dev/tty.usbmodem3447336B30331: [Errno 2] No such file or directory: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:55:00,217 - EmcuDebuggingTool - ERROR - Failed to connect: [Errno 2] could not open port /dev/tty.usbmodem3447336B30331: [Errno 2] No such file or directory: '/dev/tty.usbmodem3447336B30331'
+2025-01-07 17:55:05,188 - EmcuDebuggingTool - ERROR - Attempted to send command without a connection.
+2025-01-07 17:55:38,919 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-07 17:55:38,919 - EmcuDebuggingTool - DEBUG - Sent: 000303010c01
+2025-01-07 17:55:38,921 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-07 17:59:28,589 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-07 17:59:28,589 - EmcuDebuggingTool - DEBUG - Sent: 000303010c01
+2025-01-07 17:59:28,590 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
+2025-01-07 18:02:22,969 - EmcuDebuggingTool - INFO - Connected to EMCU on /dev/tty.usbmodem3447336B30331 at 9600 baud.
+2025-01-07 18:02:22,970 - EmcuDebuggingTool - DEBUG - Sent: 000303010c01
+2025-01-07 18:02:22,971 - EmcuDebuggingTool - INFO - Disconnected from EMCU.
