@@ -4,6 +4,7 @@ from .logging_config import setup_logger
 from emcudt.utils import append_crc32
 from emcudt.controllers.dac import DACController
 from emcudt.controllers.gpio import GPIOController
+from emcudt.controllers.adc import ADCController
 
 # Initialize the logger
 logger = setup_logger()
@@ -32,6 +33,7 @@ class EmcuDebuggingTool:
         # Initialize controllers
         self.dac = DACController(send_command_func=self._send_command, receive_response_func=self._receive_response, send_and_receive_func=self._send_and_receive)
         self.gpio = GPIOController(send_command_func=self._send_command, receive_response_func=self._receive_response, send_and_receive_func=self._send_and_receive)
+        self.adc = ADCController(send_command_func=self._send_command, receive_response_func=self._receive_response,send_and_receive_func=self._send_and_receive)
 
     def _add_header(self, data: bytes) -> bytes:
         """
@@ -118,7 +120,7 @@ class EmcuDebuggingTool:
             bytes: The response received from the EMCU.
         """
         self.connection.write(append_crc32(self._add_header(command)))
-        time.sleep(0.1)  # Wait for response (adjust based on system timing)
+        time.sleep(0.5)  # Wait for response (adjust based on system timing)
         return self._receive_response()
 
     def is_connected(self):
