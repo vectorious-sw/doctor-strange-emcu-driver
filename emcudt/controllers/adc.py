@@ -29,7 +29,7 @@ class ADCController(BaseController):
 
     def __init__(self, send_command_func, receive_response_func, send_and_receive_func):
         super().__init__(send_command_func, receive_response_func, send_and_receive_func)
-        self.MODULE_SYMBOL = bytes([0x04])
+        self.MODULE_SYMBOL = bytes([0x02])
 
     def get_adc(self, channel: ADCChannel) -> None:
         # Construct command: [DAC, Operation, CH, MSB, LSB]

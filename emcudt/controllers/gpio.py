@@ -33,7 +33,7 @@ class GPIOController(BaseController):
 
     def __init__(self, send_command_func, receive_response_func, send_and_receive_func):
         super().__init__(send_command_func, receive_response_func, send_and_receive_func)
-        self.MODULE_SYMBOL = bytes([0x03])
+        self.MODULE_SYMBOL = bytes([0x01])
 
     def GPIO_Control(self, gpio: GPIO_NAME, state: PinState) -> None:
         """
