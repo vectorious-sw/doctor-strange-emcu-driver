@@ -21,6 +21,10 @@ class GPIO_NAME(Enum):
     C_EXT_CTRL3 = 15
     C_EXT_CTRL4 = 16
     VCO_BUFFER_EN = 17
+    RX_FPGA_EN = 18
+    RX_ASIC_EN = 19
+    RX_MCU_EN = 20
+    RX_AUXILARY_EN = 21
 
 class PinState(Enum):
     GPIO_PIN_RESET = 0
