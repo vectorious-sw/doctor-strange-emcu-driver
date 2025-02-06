@@ -12,10 +12,9 @@ class DacOperation(Enum):
     """
     Enum to represent DAC operations.
     """
-    LOAD_AND_POWER_UP = 0x00
-    LOAD = 0x01
-    ON = 0x02
-    OFF = 0x03
+    LOAD = 0x00
+    ON = 0x01
+    OFF = 0x02
 
 
 class DacChannel(Enum):
@@ -53,29 +52,12 @@ class DACController(BaseController):
         voltage_lsb = voltage_int & 0xFF
 
         # Construct command: [DAC, Operation, CH, MSB, LSB]
-        command = bytes([dac.value, DacOperation.LOAD.value, channel.value, voltage_msb, voltage_lsb])
+        command = bytes([DacOperation.LOAD.value,dac.value, channel.value, voltage_msb, voltage_lsb])
         length_msb = (len(command) >> 8) & 0xFF
         length_lsb = len(command) & 0xFF
         length = bytes([length_msb, length_lsb])
         self.send_command(length + self.MODULE_SYMBOL + command)
 
-    def set_voltage_and_power_up(self, dac: DAC, channel : DacChannel, voltage: float) -> None:
-        """
-        Power up the specified DAC.
-
-        Args:
-            dac_id (int): The ID of the DAC (1 or 2).
-        """
-        voltage_int = int(voltage * 1000)  # Assume voltage resolution of 0.01V
-        voltage_msb = (voltage_int >> 8) & 0xFF
-        voltage_lsb = voltage_int & 0xFF
-
-        # Construct command: [DAC, Operation, CH, MSB, LSB]
-        command = bytes([dac.value, DacOperation.LOAD_AND_POWER_UP.value, channel.value, voltage_msb, voltage_lsb])
-        length_msb = (len(command) >> 8) & 0xFF
-        length_lsb = len(command) & 0xFF
-        length = bytes([length_msb,length_lsb])
-        self.send_command(length + self.MODULE_SYMBOL + command)
 
     def power_up(self,  dac: DAC, channel : DacChannel) -> None:
         """
@@ -86,7 +68,7 @@ class DACController(BaseController):
         """
 
         # Construct command: [DAC, Operation, CH, MSB, LSB]
-        command = bytes([dac.value, DacOperation.ON.value, channel.value, 0, 0])
+        command = bytes([DacOperation.ON.value,dac.value, channel.value, 0, 0])
         length_msb = (len(command) >> 8) & 0xFF
         length_lsb = len(command) & 0xFF
         length = bytes([length_msb, length_lsb])
