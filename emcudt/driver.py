@@ -5,6 +5,7 @@ from emcudt.utils import append_crc32
 from emcudt.controllers.dac import DACController
 from emcudt.controllers.gpio import GPIOController
 from emcudt.controllers.adc import ADCController
+from emcudt.controllers.potentiometer import PotentiometerController
 
 # Initialize the logger
 logger = setup_logger()
@@ -34,6 +35,8 @@ class EmcuDebuggingTool:
         self.dac = DACController(send_command_func=self._send_command, receive_response_func=self._receive_response, send_and_receive_func=self._send_and_receive)
         self.gpio = GPIOController(send_command_func=self._send_command, receive_response_func=self._receive_response, send_and_receive_func=self._send_and_receive)
         self.adc = ADCController(send_command_func=self._send_command, receive_response_func=self._receive_response,send_and_receive_func=self._send_and_receive)
+        self.potentiometer = PotentiometerController(send_command_func=self._send_command, receive_response_func=self._receive_response,
+                                 send_and_receive_func=self._send_and_receive)
 
     def _add_header(self, data: bytes) -> bytes:
         """
